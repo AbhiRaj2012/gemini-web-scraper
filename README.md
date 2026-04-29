@@ -9,7 +9,7 @@ An intelligent, API-powered web scraping agent built with Python, Streamlit, and
 
 ## ✨ Features
 * **🧠 Dynamic Schema Architecture:** Tell the AI what you want (e.g., "Extract faculty names and emails"), and it automatically builds the underlying Pydantic models.
-* **⚡ Gemini 1.5 Flash Integration:** Utilizes a massive 1M token context window to parse complex, messy HTML without crashing.
+* **⚡ Gemini 2.5 Flash Integration:** Utilizes a massive 1M token context window to parse complex, messy HTML without crashing.
 * **🛡️ Robust Error Handling:** Built-in timeouts, Playwright integration, and Windows asyncio fixes for bulletproof execution.
 * **📊 One-Click Export:** Instantly download scraped data as clean, formatted CSV files.
 
