@@ -5,7 +5,7 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=google&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EBA5F?logo=playwright&logoColor=white)
 
-An intelligent, API-powered web scraping agent built with Python, Streamlit, and ScrapeGraphAI. It leverages **Google's Gemini 1.5 Flash** to autonomously navigate websites, dynamically generate data schemas based on user intent, and extract structured leads (names, emails, prices, etc.) into ready-to-use CSV files.
+An intelligent, API-powered web scraping agent built with Python, Streamlit, and ScrapeGraphAI. It leverages **Google's Gemini 2.5 Flash** to autonomously navigate websites, dynamically generate data schemas based on user intent, and extract structured leads (names, emails, prices, etc.) into ready-to-use CSV files.
 
 ## ✨ Features
 * **🧠 Dynamic Schema Architecture:** Tell the AI what you want (e.g., "Extract faculty names and emails"), and it automatically builds the underlying Pydantic models.
