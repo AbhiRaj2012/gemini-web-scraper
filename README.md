@@ -40,7 +40,7 @@ playwright install
 Create a .env file in the root directory and add your Google API key:
 ```bash
 GOOGLE_API_KEY=your_api_key_here
-ONLINE_MODEL=gemini-1.5-flash
+ONLINE_MODEL=gemini-2.5-flash
 ```
 
 ### 4. Run the Agent
